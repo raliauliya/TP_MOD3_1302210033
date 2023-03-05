@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\Lia\Telkom\SEMS 4\KPL\TP\TP_MOD3_1302210033\TP_MOD3_1302210033\bin\Debug\TP_MOD3_1302210033.exe.config
+C:\Users\Asus\Documents\Lia\Telkom\SEMS 4\KPL\TP\TP_MOD3_1302210033\TP_MOD3_1302210033\bin\Debug\TP_MOD3_1302210033.exe
+C:\Users\Asus\Documents\Lia\Telkom\SEMS 4\KPL\TP\TP_MOD3_1302210033\TP_MOD3_1302210033\bin\Debug\TP_MOD3_1302210033.pdb
+C:\Users\Asus\Documents\Lia\Telkom\SEMS 4\KPL\TP\TP_MOD3_1302210033\TP_MOD3_1302210033\obj\Debug\TP_MOD3_1302210033.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Lia\Telkom\SEMS 4\KPL\TP\TP_MOD3_1302210033\TP_MOD3_1302210033\obj\Debug\TP_MOD3_1302210033.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Documents\Lia\Telkom\SEMS 4\KPL\TP\TP_MOD3_1302210033\TP_MOD3_1302210033\obj\Debug\TP_MOD3_1302210033.Form1.resources
+C:\Users\Asus\Documents\Lia\Telkom\SEMS 4\KPL\TP\TP_MOD3_1302210033\TP_MOD3_1302210033\obj\Debug\TP_MOD3_1302210033.Properties.Resources.resources
+C:\Users\Asus\Documents\Lia\Telkom\SEMS 4\KPL\TP\TP_MOD3_1302210033\TP_MOD3_1302210033\obj\Debug\TP_MOD3_1302210033.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Lia\Telkom\SEMS 4\KPL\TP\TP_MOD3_1302210033\TP_MOD3_1302210033\obj\Debug\TP_MOD3_1302210033.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Lia\Telkom\SEMS 4\KPL\TP\TP_MOD3_1302210033\TP_MOD3_1302210033\obj\Debug\TP_MOD3_1302210033.exe
+C:\Users\Asus\Documents\Lia\Telkom\SEMS 4\KPL\TP\TP_MOD3_1302210033\TP_MOD3_1302210033\obj\Debug\TP_MOD3_1302210033.pdb
